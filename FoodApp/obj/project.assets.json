@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "FoodApp.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FoodApp.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FoodApp.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FoodApp.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../FoodApp.Contracts/FoodApp.Contracts.csproj",
+      "msbuildProject": "../FoodApp.Contracts/FoodApp.Contracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "FoodApp.Contracts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "f:\\Codigo\\dotnet-rest-api\\FoodApp\\FoodApp\\FoodApp.csproj",
+      "projectName": "FoodApp",
+      "projectPath": "f:\\Codigo\\dotnet-rest-api\\FoodApp\\FoodApp\\FoodApp.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "f:\\Codigo\\dotnet-rest-api\\FoodApp\\FoodApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "f:\\Codigo\\dotnet-rest-api\\FoodApp\\FoodApp.Contracts\\FoodApp.Contracts.csproj": {
+              "projectPath": "f:\\Codigo\\dotnet-rest-api\\FoodApp\\FoodApp.Contracts\\FoodApp.Contracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

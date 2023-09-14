@@ -1,0 +1,11 @@
+F:\Codigo\dotnet-rest-api\FoodApp\FoodApp.Contracts\bin\Debug\net7.0\FoodApp.Contracts.deps.json
+F:\Codigo\dotnet-rest-api\FoodApp\FoodApp.Contracts\bin\Debug\net7.0\FoodApp.Contracts.dll
+F:\Codigo\dotnet-rest-api\FoodApp\FoodApp.Contracts\bin\Debug\net7.0\FoodApp.Contracts.pdb
+F:\Codigo\dotnet-rest-api\FoodApp\FoodApp.Contracts\obj\Debug\net7.0\FoodApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codigo\dotnet-rest-api\FoodApp\FoodApp.Contracts\obj\Debug\net7.0\FoodApp.Contracts.AssemblyInfoInputs.cache
+F:\Codigo\dotnet-rest-api\FoodApp\FoodApp.Contracts\obj\Debug\net7.0\FoodApp.Contracts.AssemblyInfo.cs
+F:\Codigo\dotnet-rest-api\FoodApp\FoodApp.Contracts\obj\Debug\net7.0\FoodApp.Contracts.csproj.CoreCompileInputs.cache
+F:\Codigo\dotnet-rest-api\FoodApp\FoodApp.Contracts\obj\Debug\net7.0\FoodApp.Contracts.dll
+F:\Codigo\dotnet-rest-api\FoodApp\FoodApp.Contracts\obj\Debug\net7.0\refint\FoodApp.Contracts.dll
+F:\Codigo\dotnet-rest-api\FoodApp\FoodApp.Contracts\obj\Debug\net7.0\FoodApp.Contracts.pdb
+F:\Codigo\dotnet-rest-api\FoodApp\FoodApp.Contracts\obj\Debug\net7.0\ref\FoodApp.Contracts.dll

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodApp.Contracts", "FoodApp.Contracts\FoodApp.Contracts.csproj", "{26715EE0-06AC-4E1B-940F-F96B3A023604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodApp", "FoodApp\FoodApp.csproj", "{9C8ACEC6-7D22-45D4-B742-DEC719054A26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-api", "..\..\dotnet-api\dotnet-api.csproj", "{53E4F44A-743D-4BF5-8EC9-4C34C27C2375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26715EE0-06AC-4E1B-940F-F96B3A023604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26715EE0-06AC-4E1B-940F-F96B3A023604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26715EE0-06AC-4E1B-940F-F96B3A023604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26715EE0-06AC-4E1B-940F-F96B3A023604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8ACEC6-7D22-45D4-B742-DEC719054A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8ACEC6-7D22-45D4-B742-DEC719054A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8ACEC6-7D22-45D4-B742-DEC719054A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8ACEC6-7D22-45D4-B742-DEC719054A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E4F44A-743D-4BF5-8EC9-4C34C27C2375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E4F44A-743D-4BF5-8EC9-4C34C27C2375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E4F44A-743D-4BF5-8EC9-4C34C27C2375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E4F44A-743D-4BF5-8EC9-4C34C27C2375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
